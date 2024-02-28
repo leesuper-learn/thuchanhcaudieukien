@@ -1,0 +1,7 @@
+E:\C#\online\W02\caudieukien\caudieukien\caudieukien\bin\Debug\caudieukien.exe.config
+E:\C#\online\W02\caudieukien\caudieukien\caudieukien\bin\Debug\caudieukien.exe
+E:\C#\online\W02\caudieukien\caudieukien\caudieukien\bin\Debug\caudieukien.pdb
+E:\C#\online\W02\caudieukien\caudieukien\caudieukien\obj\Debug\caudieukien.csproj.AssemblyReference.cache
+E:\C#\online\W02\caudieukien\caudieukien\caudieukien\obj\Debug\caudieukien.csproj.CoreCompileInputs.cache
+E:\C#\online\W02\caudieukien\caudieukien\caudieukien\obj\Debug\caudieukien.exe
+E:\C#\online\W02\caudieukien\caudieukien\caudieukien\obj\Debug\caudieukien.pdb
